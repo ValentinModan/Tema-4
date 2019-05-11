@@ -1,0 +1,10 @@
+F:\DS - GOOD\finally_CSharp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\DS - GOOD\finally_CSharp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\DS - GOOD\finally_CSharp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\DS - GOOD\finally_CSharp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+F:\DS - GOOD\finally_CSharp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\DS - GOOD\finally_CSharp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+F:\DS - GOOD\finally_CSharp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+F:\DS - GOOD\finally_CSharp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\DS - GOOD\finally_CSharp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\DS - GOOD\finally_CSharp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
